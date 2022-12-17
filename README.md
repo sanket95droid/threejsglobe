@@ -3,12 +3,12 @@
 [LINK](https://threejsglobe.vercel.app/)
 
 
-Geometry: IcosahedronGeometry
+Geometry: ```IcosahedronGeometry```
 <br>
-Material: MeshPhongMaterial
+Material: ```MeshPhongMaterial```
 <br>
-Renderer: WebGLRenderer
+Renderer: ```WebGLRenderer```
 <br>
-Light: HemisphereLight
+Light: ```HemisphereLight```
 <br>
-{OrbitControls} for pan, zoom and damping
+{OrbitControls} ```for pan, zoom and damping```
